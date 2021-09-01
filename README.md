@@ -1,6 +1,4 @@
-# CoRSIV Bisulfite Capture Sequencing of 6 GTEx Tissues from 100 individuals.
-Tite:
-Systemic interindividual variation in DNA methylation among humans is associated with repetitive elements and under strong genetic control
+# Systemic interindividual variation in DNA methylation in humans is associated with repetitive elements and under strong genetic control
 
-* The code and data repo for publication
+* This repository contains the the R and Python code developed for the analysis of 807 GTEx tissues (188 Individuals/ six tissues)
 
